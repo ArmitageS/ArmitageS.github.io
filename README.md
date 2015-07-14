@@ -1,2 +1,2 @@
 # ArmitageS.github.io
-Playing with Guthub pages
+Playing with Guthub pages and first checkin
